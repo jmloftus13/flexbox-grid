@@ -114,7 +114,7 @@ body {
   font-weight: 400;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .div-1, .div-2, .div-3 {
